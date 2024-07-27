@@ -19,8 +19,8 @@ To run the Finance Wizard application locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/finance-wizard.git
-   cd finance-wizard
+   git clone https://github.com/adityachavan198/finwiz.git
+   cd finwiz
    ```
 
 2. **Create and activate a virtual environment:**
