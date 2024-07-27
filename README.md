@@ -77,5 +77,3 @@ Created by Aditya Chavan. For any questions or suggestions, please connect with 
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
 
 ---
-
-Enjoy using Finance Wizard to make informed investment decisions!
