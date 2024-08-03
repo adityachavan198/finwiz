@@ -1,5 +1,5 @@
 import streamlit as st
-from llama3 import llama3  # Assuming llama3 is a custom module you have
+from llama3 import llama3 
 
 def suggest_investments(income, age, marital_status, risk_appetite, fixed_expenses, savings, liabilities, investment_goals):
     prompt = (
